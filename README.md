@@ -1,1 +1,16 @@
-# World_Population_SQL_Project
+# World_Population_SQL_Project.
+In this Case study, I have taken the dataset from Rishav Sharma Kaggle’s dataset collection.
+
+https://www.kaggle.com/datasets/rsrishav/world-population?resource=download
+
+Column names are follows below:
+
+iso_code,country,2021_last_updated,2020_population,area,density_sq_km,growth_rate,world_%, and rank
+
+Why I choose this project, Since Population keeps increasing day by day and it’s a concern for the society and environment As the world’s population grows, so do its demands for water, land, trees, food, place, soil, etc — all of which come at a high price for already endangered plants and animals.
+
+In this article, They have mentioned
+
+“India to overtake China as world’s most populated country in 2023”: UN
+
+https://www.business-standard.com/article/economy-policy/india-to-overtake-china-as-world-s-most-populated-country-in-2023-un- 122071100983_1.html
